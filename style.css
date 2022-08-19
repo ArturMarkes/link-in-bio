@@ -1,0 +1,66 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #BB99DD;
+    
+}
+
+.user-photo{
+    border-radius: 50%;
+    border: solid 3px #BB99DD;
+    padding: 3px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 80px;
+}
+.user-photo img{
+   width: 200px;
+    height: 200px;
+}
+
+.name{
+    width: 99;
+    height: 24;
+    text-align: center; 
+    color: #BB99DD;
+    padding-top: 16px;
+    padding-bottom: 33px; 
+}
+
+
+.link {
+    width: 326px;
+    height: 49px;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    border: 3px solid #BB99DD;
+    border-radius:7px;
+    cursor: pointer;
+    padding-top: 10px;
+    }
+
+    .logo{
+        width: 236px;
+        height: 24px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .logo1, .logo2, .logo3, .logo4, .logo5{
+        display: inline-block;
+        padding-top: 40px;
+        justify-content: center;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 80px;
+    }
+
+    .espaco{
+        width: 10px;
+        height: 10px;
+        padding: 30px;
+    }
